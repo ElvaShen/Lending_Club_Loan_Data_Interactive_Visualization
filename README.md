@@ -25,10 +25,9 @@ There are some states that are blank, which does not necessarily mean that they 
 
 
 
-Then I explored the [Distribution of Loan Amount($) by Purpose From 2007 to 2015](https://plot.ly/~dandandesunshine/5).<br>
+Then I explored the [Loan Issued by Purpose](https://plot.ly/~dandandesunshine/5).<br>
 
-
-<img width="906" alt="pic03" src="https://user-images.githubusercontent.com/41976548/44944373-83047680-ad8a-11e8-9a10-e6dc5a6e54a6.png">
+<img width="961" alt="pic03" src="https://user-images.githubusercontent.com/41976548/44950385-5dfc1c00-adfb-11e8-844e-23231dcf3417.png">
 
 
 

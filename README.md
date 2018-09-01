@@ -16,7 +16,7 @@ From these three graphs, we can tell the loans applied by potential borrowers, t
 
 
 
-Then I exhibited the Distribution of Loan Amount by State From 2007 to 2015. This is the interactive graph with the drop-down menu.
+Then I exhibited the [Distribution of Loan Amount($) by State From 2007 to 2015](https://plot.ly/~dandandesunshine/3).<br>This is the interactive graph with the drop-down menu.
 
 <img width="993" alt="screenshot 2018-09-01 01 00 25" src="https://user-images.githubusercontent.com/41976548/44943904-f904df80-ad82-11e8-9edd-4ef850f5ad8b.png">
 

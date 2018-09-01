@@ -29,9 +29,9 @@ Almost all kinds of loans increase with year over the time, except for wedding a
 
 
 ## Interactive graph
-https://plot.ly/~dandandesunshine/3     Distribution of Loan Amount($) by State
-https://plot.ly/~dandandesunshine/5     Distribution of Loan Amount($) by Purpose From 2007 to 2015
-https://plot.ly/~dandandesunshine/33    Loan Amount vs Annual Income by Grade
+[Distribution of Loan Amount($) by State](https://plot.ly/~dandandesunshine/3)<br>
+[Distribution of Loan Amount($) by Purpose From 2007 to 2015](https://plot.ly/~dandandesunshine/5)<br>
+[Loan Amount vs Annual Income by Grade](https://plot.ly/~dandandesunshine/33)
 
 
 

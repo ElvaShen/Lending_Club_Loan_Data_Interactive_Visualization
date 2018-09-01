@@ -38,7 +38,7 @@ The top 3 purposes are debt consolidation, credit card, and home improvement.
 
 Finally, I want to see the [Loan Amount vs Annual Income by Grade](https://plot.ly/~dandandesunshine/33) to get a sense of how Lending Club’s loan issuing strategy changes with time.
 
-<img width="815" alt="pic04" src="https://user-images.githubusercontent.com/41976548/44944413-22296e00-ad8b-11e8-9fd1-e88873951b4b.png">
+<img width="979" alt="pic04" src="https://user-images.githubusercontent.com/41976548/44950357-a5ce7380-adfa-11e8-819b-8f275a3a3062.png">
 
 
 Lending Club’s loan issuing strategy is quite evident from this animation. At the beginning phase of their business, it was reasonable to take some risk by issuing loans to people with different annual income, while remain a low issuing amount to avoid too much loss.<br>

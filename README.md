@@ -36,10 +36,16 @@ This shows debt consolidation is always the main reason for customers applying f
 The top 3 purposes are debt consolidation, credit card, and home improvement.
 
 
+Finally, I want to explore the [Loan Amount vs Annual Income by Grade](https://plot.ly/~dandandesunshine/33) to get a sense of how Lending Club’s loan issuing strategy changes with time.
+
+
+The trend is pretty obvious from this animation. The reason is highly likely to be the change of Lending Club’s loan issuing strategy. At the beginning phase of their business, it was reasonable to take some risk by issuing loans to people with different annual income, while remain a low issuing amount to avoid too much loss.<br>
+Over the time, after Lending Club discovers more patterns, and being more accurate in risk controlling, they increased the loan amount gradually, and put more emphasis on the customer group who have annual income within a smaller range.
 
 
 
-## Interactive graph
+
+## Interactive Graphs
 [Distribution of Loan Amount($) by State From 2007 to 2015](https://plot.ly/~dandandesunshine/3)<br>
 [Distribution of Loan Amount($) by Purpose From 2007 to 2015](https://plot.ly/~dandandesunshine/5)<br>
 [Loan Amount vs Annual Income by Grade](https://plot.ly/~dandandesunshine/33)

@@ -16,17 +16,16 @@ From these three graphs, we can tell the loans applied by potential borrowers, t
 
 
 
-Then I exhibited the [Distribution of Loan Amount($) by State From 2007 to 2015](https://plot.ly/~dandandesunshine/3).<br>This is the interactive graph with the drop-down menu.
+Then I exhibited the [Distribution of Loan Amount($) by State From 2007 to 2015](https://plot.ly/~dandandesunshine/3).<br>(This is the interactive graph with the drop-down menu)
 
 <img width="993" alt="screenshot 2018-09-01 01 00 25" src="https://user-images.githubusercontent.com/41976548/44943904-f904df80-ad82-11e8-9edd-4ef850f5ad8b.png">
 
-
-This graph shows California, Texas, New York and Florida are the states in which the highest amount of loans were issued.
+It shows California, Texas, New York and Florida are the states in which the highest amount of loans were issued.<br>
 Also, there are some states that are blank, which does not necessarily mean that they are rich or do not borrow loans, it can simply be that Lending Club is not a popular lending company in those regions.
 
 
 
-Then I explored the [Distribution of Loan Amount($) by Purpose From 2007 to 2015](https://plot.ly/~dandandesunshine/5)<br>.
+Then I explored the [Distribution of Loan Amount($) by Purpose From 2007 to 2015](https://plot.ly/~dandandesunshine/5).<br>
 
 
 

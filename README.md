@@ -18,7 +18,7 @@ From these three graphs, we can tell the loans applied by potential borrowers, t
 
 Then I exhibited the [Total amount of Loan($) Issued by State From 2007 to 2015](https://plot.ly/~dandandesunshine/3).<br>(This is the interactive graph with the drop-down menu)
 
-<img width="993" alt="screenshot 2018-09-01 01 00 25" src="https://user-images.githubusercontent.com/41976548/44943904-f904df80-ad82-11e8-9edd-4ef850f5ad8b.png">
+<img width="1417" alt="pic02" src="https://user-images.githubusercontent.com/41976548/44950371-dadac600-adfa-11e8-9827-cc943382a400.png">
 
 It shows California, Texas, New York and Florida are the states in which the highest amount of loans were issued.<br>
 There are some states that are blank, which does not necessarily mean that they are rich or do not borrow loans, it can simply be that Lending Club is not a popular lending company in those regions.

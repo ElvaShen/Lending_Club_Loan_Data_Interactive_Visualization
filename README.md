@@ -62,6 +62,7 @@ The code is in Jupyter Notebook format named `Lending_Club_Loan_Data_Interactive
 The dataset is collected from Kaggle, it has cleaned data and thus easier to build visualizations.
 https://www.kaggle.com/wendykan/lending-club-loan-data
 
-This dataset has 75 variables in total, including numerical variables and many categorical variables with a range of unique cardinality from 3 to 30. In this project, I picked 10 features to explore. loan_amnt, funded_amnt, funded_amnt_inv, addr_state, issued_year(derived from original 'issue_d'), purpose, annual_inc, int_rate, grade, sub_grade.
+This dataset has 75 variables in total, including numerical variables and many categorical variables with a range of unique cardinality from 3 to 30. In this project, I picked 10 variables to explore. They are:<br>
+loan_amnt, funded_amnt, funded_amnt_inv, addr_state, issued_year(derived from original 'issue_d'), purpose, annual_inc, int_rate, grade, sub_grade.
 
 

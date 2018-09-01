@@ -7,8 +7,15 @@ The objective of this project is to understand trends of loan amount and gain in
 
 The first graph shows the Frequency Distribution of the Loan Amount.
 
+<img width="1032" alt="screenshot 2018-09-01 00 43 41" src="https://user-images.githubusercontent.com/41976548/44943787-146eeb00-ad81-11e8-84fb-5544006405d2.png">
 
 
+
+From these three graphs, we can tell the loans applied by potential borrowers, the amount issued to the borrowers and the amount funded by investors are similarly distributed, meaning that it is most likely that qualified borrowers are going to get the loan they had applied for.
+
+
+
+Then I exhibited the Distribution of Loan Amount by State 
 
 
 

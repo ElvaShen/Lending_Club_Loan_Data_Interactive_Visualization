@@ -21,15 +21,26 @@ Then I exhibited the [Distribution of Loan Amount($) by State From 2007 to 2015]
 <img width="993" alt="screenshot 2018-09-01 01 00 25" src="https://user-images.githubusercontent.com/41976548/44943904-f904df80-ad82-11e8-9edd-4ef850f5ad8b.png">
 
 
+This graph shows California, Texas, New York and Florida are the states in which the highest amount of loans were issued.
+Also, there are some states that are blank, which does not necessarily mean that they are rich or do not borrow loans, it can simply be that Lending Club is not a popular lending company in those regions.
+
+
+
+Then I explored the [Distribution of Loan Amount($) by Purpose From 2007 to 2015](https://plot.ly/~dandandesunshine/5)<br>.
+
+
+
+
+
 This shows debt consolidation is always the main reason for customers applying for loan.<br>
-Almost all kinds of loans increase with year over the time, except for wedding and education. Also, the loan amounts for these two purposes are also the lowest among all the purposes. This is understandable because it’s natural for category with less loan amount to be more unstable comparing with category with more loan amount.
+The top 3 purposes are debt consolidation, credit card, and home improvement.
 
 
 
 
 
 ## Interactive graph
-[Distribution of Loan Amount($) by State](https://plot.ly/~dandandesunshine/3)<br>
+[Distribution of Loan Amount($) by State From 2007 to 2015](https://plot.ly/~dandandesunshine/3)<br>
 [Distribution of Loan Amount($) by Purpose From 2007 to 2015](https://plot.ly/~dandandesunshine/5)<br>
 [Loan Amount vs Annual Income by Grade](https://plot.ly/~dandandesunshine/33)
 

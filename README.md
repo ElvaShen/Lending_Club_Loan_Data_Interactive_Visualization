@@ -18,6 +18,11 @@ From these three graphs, we can tell the loans applied by potential borrowers, t
 
 Then I exhibited the Distribution of Loan Amount by State From 2007 to 2015. This is the interactive graph with the drop-down menu.
 
+<img width="993" alt="screenshot 2018-09-01 01 00 25" src="https://user-images.githubusercontent.com/41976548/44943904-f904df80-ad82-11e8-9edd-4ef850f5ad8b.png">
+
+
+This shows debt consolidation is always the main reason for customers applying for loan.<br>
+Almost all kinds of loans increase with year over the time, except for wedding and education. Also, the loan amounts for these two purposes are also the lowest among all the purposes. This is understandable because it’s natural for category with less loan amount to be more unstable comparing with category with more loan amount.
 
 
 

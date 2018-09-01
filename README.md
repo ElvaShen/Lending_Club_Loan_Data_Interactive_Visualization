@@ -21,13 +21,14 @@ Then I exhibited the [Distribution of Loan Amount($) by State From 2007 to 2015]
 <img width="993" alt="screenshot 2018-09-01 01 00 25" src="https://user-images.githubusercontent.com/41976548/44943904-f904df80-ad82-11e8-9edd-4ef850f5ad8b.png">
 
 It shows California, Texas, New York and Florida are the states in which the highest amount of loans were issued.<br>
-Also, there are some states that are blank, which does not necessarily mean that they are rich or do not borrow loans, it can simply be that Lending Club is not a popular lending company in those regions.
+There are some states that are blank, which does not necessarily mean that they are rich or do not borrow loans, it can simply be that Lending Club is not a popular lending company in those regions.
 
 
 
 Then I explored the [Distribution of Loan Amount($) by Purpose From 2007 to 2015](https://plot.ly/~dandandesunshine/5).<br>
 
 
+<img width="906" alt="pic03" src="https://user-images.githubusercontent.com/41976548/44944373-83047680-ad8a-11e8-9a10-e6dc5a6e54a6.png">
 
 
 

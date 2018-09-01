@@ -1,2 +1,4 @@
-# Lending_Club_Loan_Data_Interactive_Visualization
-Lending_Club_Loan_Data_Interactive_Visualization
+# Lending Club Data Visualization
+
+## Summary
+

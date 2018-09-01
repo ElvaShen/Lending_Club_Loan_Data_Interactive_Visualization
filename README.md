@@ -7,7 +7,8 @@ The objective of this project is to understand trends of loan amount and gain in
 
 The first graph shows the Frequency Distribution of the Loan Amount.
 
-<img width="1032" alt="screenshot 2018-09-01 00 43 41" src="https://user-images.githubusercontent.com/41976548/44943787-146eeb00-ad81-11e8-84fb-5544006405d2.png">
+<img width="865" alt="screenshot 2018-09-01 00 55 14" src="https://user-images.githubusercontent.com/41976548/44943837-cad2d000-ad81-11e8-8763-4dcaf4db6b97.png">
+
 
 
 

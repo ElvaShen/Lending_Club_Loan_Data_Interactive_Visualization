@@ -55,7 +55,7 @@ Over the time, after Lending Club discovers more patterns, and being more accura
 
 ## Source Code
 The code is in Jupyter Notebook format named `Lending_Club_Loan_Data_Interactive_Visualization.ipynb`.<br>
-The Jupyter Notebook file is also available in [NBviewer](http://nbviewer.jupyter.org/github/elvashen/Lending_Club_Loan_Data_Interactive_Visualization/blob/master/Lending_Club_Loan_Data_Interactive_Visualization.ipynb)
+The Jupyter Notebook file is also available in [NBviewer](http://nbviewer.jupyter.org/github/elvashen/Lending_Club_Loan_Data_Interactive_Visualization/blob/master/Lending_Club_Loan_Data_Interactive_Visualization.ipynb).
 
 
 ## Datasets

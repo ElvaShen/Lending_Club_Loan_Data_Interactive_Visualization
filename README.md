@@ -14,14 +14,15 @@ The objective of this project is to understand trends of loan amount and gain in
 
 
 
-> From these three graphs, we can tell the loans applied by potential borrowers, the amount issued to the borrowers and the amount funded by investors are similarly distributed, meaning that it is most likely that qualified borrowers are going to get the loan they had applied for.
+> We can tell that the loans applied by potential borrowers, the amount issued to the borrowers and the amount funded by investors are similarly distributed, meaning that it is most likely that qualified borrowers are going to get the loan they had applied for.
 
 
 
 ### 2. [Loan Issued by State](https://plot.ly/~dandandesunshine/3)<br>
 (This is the interactive graph with the drop-down menu)
 
-<img width="1417" alt="pic02" src="https://user-images.githubusercontent.com/41976548/44950371-dadac600-adfa-11e8-9827-cc943382a400.png">
+<img width="1417" alt="pic02" src="https://user-images.githubusercontent.com/41976548/44997253-d0870c00-af61-11e8-8840-32e37411f870.png">
+
 
 > It shows California, Texas, New York and Florida are the states in which the highest amount of loans were issued.<br>
 There are some states that are blank, which does not necessarily mean that they are rich or do not borrow loans, it can simply be that Lending Club is not a popular lending company in those regions.
@@ -30,16 +31,18 @@ There are some states that are blank, which does not necessarily mean that they 
 
 ### 3. [Loan Grade Issuing Trend(%)](https://plot.ly/~dandandesunshine/5).<br>
 
-<img width="961" alt="pic03" src="https://user-images.githubusercontent.com/41976548/44950385-5dfc1c00-adfb-11e8-844e-23231dcf3417.png">
+<img width="902" alt="pic03" src="https://user-images.githubusercontent.com/41976548/44997257-d67ced00-af61-11e8-977a-dead906700b1.png">
+
 
 
 
 > It shows the number of F and G grade loans issuance were very stable.
 
 
-### 4. Animation: [Loan Amount vs Annual Income by Loan Grade](https://plot.ly/~dandandesunshine/33), trying to get a sense of how Lending Club’s loan issuing strategy changes with time.
+### 4. Animation: [Loan Amount vs Annual Income by Loan Grade](https://plot.ly/~dandandesunshine/33)
+*try to get a sense of how Lending Club’s loan issuing strategy changes with time.*
 
-<img width="979" alt="pic04" src="https://user-images.githubusercontent.com/41976548/44950357-a5ce7380-adfa-11e8-819b-8f275a3a3062.png">
+<img width="979" alt="pic04" src="https://user-images.githubusercontent.com/41976548/44997263-d8df4700-af61-11e8-91c3-d365b279a850.png">
 
 
 > Grade F and G loans were issued aggressively during 2011-2013, but 2012 was a year that the company made a pause and went back to a conservative plan.<br>
@@ -58,7 +61,7 @@ There are some states that are blank, which does not necessarily mean that they 
 
 ## Source Code
 The code is in Jupyter Notebook format named `Lending_Club_Loan_Data_Interactive_Visualization.ipynb`.<br>
-In order to see the interactive graphs and play the animation, please see the Jupyter Notebook file in [NBviewer](http://nbviewer.jupyter.org/github/elvashen/Lending_Club_Loan_Data_Visualization/blob/master/Lending_Club_Loan_Data_Visualization.ipynb).
+In order to see the interactive graphs and play the animation, please check out the Jupyter Notebook file in [NBviewer](http://nbviewer.jupyter.org/github/elvashen/Lending_Club_Loan_Data_Visualization/blob/master/Lending_Club_Loan_Data_Visualization.ipynb).
 
 
 ## Datasets

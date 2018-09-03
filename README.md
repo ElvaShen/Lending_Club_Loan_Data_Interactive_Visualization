@@ -21,7 +21,7 @@ The objective of this project is to understand trends of issuing loan amount and
 ### 2. [Loan Issued by State](https://plot.ly/~dandandesunshine/3) 
 (This is the interactive graph with drop-down menu)
 
-<img width="1417" alt="pic02" src="https://user-images.githubusercontent.com/41976548/44997253-d0870c00-af61-11e8-8840-32e37411f870.png">
+<img width="1399" alt="loan_issued_by_ state" src="https://user-images.githubusercontent.com/41976548/44999977-0df59480-af76-11e8-9431-11d41f970b74.png">
 
 
 > It shows California, Texas, New York and Florida are the states in which the highest amount of loans were issued.<br>

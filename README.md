@@ -18,7 +18,7 @@ The objective of this project is to understand trends of loan amount and gain in
 
 
 
-### 2. [Loan Issued by State](https://plot.ly/~dandandesunshine/3).<br>
+### 2. [Loan Issued by State](https://plot.ly/~dandandesunshine/3)<br>
 (This is the interactive graph with the drop-down menu)
 
 <img width="1417" alt="pic02" src="https://user-images.githubusercontent.com/41976548/44950371-dadac600-adfa-11e8-9827-cc943382a400.png">

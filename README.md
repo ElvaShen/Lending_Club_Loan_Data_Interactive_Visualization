@@ -64,7 +64,7 @@ The code is in Jupyter Notebook format named `Lending_Club_Loan_Data_Interactive
 In order to see the interactive graphs and play the animation, please check out the Jupyter Notebook file in [NBviewer](http://nbviewer.jupyter.org/github/elvashen/Lending_Club_Loan_Data_Visualization/blob/master/Lending_Club_Loan_Data_Visualization.ipynb).
 
 
-## Datasets
+## Dataset
 The dataset is collected from Kaggle, it has cleaned data and thus easier to build visualizations.
 https://www.kaggle.com/wendykan/lending-club-loan-data
 

@@ -29,7 +29,7 @@ There are some states that are blank, which does not necessarily mean that they 
 
 
 
-### 3. [Loan Grade Issuing Trend(%)](https://plot.ly/~dandandesunshine/5).<br>
+### 3. [Loan Grade Issuing Trend(%)](https://plot.ly/~dandandesunshine/14)<br>
 
 <img width="902" alt="pic03" src="https://user-images.githubusercontent.com/41976548/44997257-d67ced00-af61-11e8-977a-dead906700b1.png">
 
@@ -54,7 +54,7 @@ There are some states that are blank, which does not necessarily mean that they 
 
 ## Interactive Graphs
 [Total amount of Loan($) Issued by State From 2007 to 2015](https://plot.ly/~dandandesunshine/3)<br>
-[Loan Grade Issuing Trend(%)](https://plot.ly/~dandandesunshine/5)<br>
+[Loan Grade Issuing Trend(%)](https://plot.ly/~dandandesunshine/14)<br>
 [Loan Amount vs Annual Income by Loan Grade](https://plot.ly/~dandandesunshine/33)
 
 

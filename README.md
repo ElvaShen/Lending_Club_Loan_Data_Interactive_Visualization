@@ -36,10 +36,10 @@ There are some states that are blank, which does not necessarily mean that they 
 
 
 
-> It shows the number of F and G grade loans issuance were very stable.
+> It shows that the number of F and G grade loans issuance were very stable while others were volatile.
 
 
-### 4. Animation: [Loan Amount vs Annual Income by Loan Grade](https://plot.ly/~dandandesunshine/33)
+### 4. Animation: [Loan Amount vs Annual Income by Loan Grade](https://plot.ly/~dandandesunshine/38)
 *try to get a sense of how Lending Club’s loan issuing strategy changes with time.*
 
 <img width="979" alt="pic04" src="https://user-images.githubusercontent.com/41976548/44997263-d8df4700-af61-11e8-91c3-d365b279a850.png">
@@ -55,7 +55,7 @@ There are some states that are blank, which does not necessarily mean that they 
 ## Interactive Graphs
 [Total amount of Loan($) Issued by State From 2007 to 2015](https://plot.ly/~dandandesunshine/3)<br>
 [Loan Grade Issuing Trend(%)](https://plot.ly/~dandandesunshine/14)<br>
-[Loan Amount vs Annual Income by Loan Grade](https://plot.ly/~dandandesunshine/33)
+[Loan Amount vs Annual Income by Loan Grade](https://plot.ly/~dandandesunshine/38)
 
 
 
